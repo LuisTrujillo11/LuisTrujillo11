@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [Cerebral volumetric changes and their contribution to behavioral phenotypes in animal model](Cerebral volumetric changes and their contribution to behavioral phenotypes in animal model)
 
-- ⚡ Fun fact **I'm pretty good at sports**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
