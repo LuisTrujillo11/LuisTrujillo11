@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **trujillo@inb.unam.mx**
 
-- 📄 Know about my experiences [Cerebral volumetric changes and their contribution to behavioral phenotypes in animal model](Cerebral volumetric changes and their contribution to behavioral phenotypes in animal model)
+- 📄 Know about my experiences Cerebral volumetric changes and their contribution to behavioral phenotypes in animal model
 
 
 
