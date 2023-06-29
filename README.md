@@ -1,4 +1,4 @@
-[![MasterHead](https://www.med-technews.com/downloads/6447/download/neuro.png?cb=f9c7a82b9100b05b9c992f27c4ce9027)
+![MasterHead](https://www.med-technews.com/downloads/6447/download/neuro.png?cb=f9c7a82b9100b05b9c992f27c4ce9027)
 <h1 align="center">Hi 👋, I'm Luis Trujillo</h1>
 <h3 align="center">A passionate Neuroscience Researcher from México</h3>
 <img align="right" alt="Coding" width="400" src="https://psilantrolab.xyz/images/logo_transp.png">
