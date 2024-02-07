@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luistrujillo11&label=Profile%20views&color=0e75b6&style=flat" alt="luistrujillo11" /> </p>
 
-- 🔭 I’m currently working on **Alcohol intake induced by Prenatal Stress**
+- 🔭 I’m currently working on **Alcohol and opioids intake induced by Prenatal Stress**
 
 - 🌱 I’m currently learning **Datascience**
 
